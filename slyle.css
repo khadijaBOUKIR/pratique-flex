@@ -20,3 +20,27 @@ ul{
     margin-left: 56px;
     margin-top: 9px;
 }
+
+
+.country-name{
+    font-size: 32px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.description-details{
+    font-size: 17px;
+    margin-bottom: 16px;
+    margin-top: 24px;
+    margin-left: 107px;
+}
+body {
+    background-image: url('bleu-ciel.jpeg');
+    opacity: 1;
+}
+.footer-description{
+    margin-left: 107px;
+}
+.section-country{
+    margin-left: 6px;
+}
+
